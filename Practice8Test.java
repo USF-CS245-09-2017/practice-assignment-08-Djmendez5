@@ -1,4 +1,3 @@
-
 public class Practice8Test {
 	
 	
@@ -36,7 +35,6 @@ public class Practice8Test {
 			if (neighbours[i] == 2)
 				contains2 = true;
 		}
-		
 		return contains1 && contains2 && items == 2;
 	}
 	
